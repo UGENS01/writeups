@@ -32,4 +32,4 @@ This revealed the password for Level 2.
   treat it as a file in the current directory
 - cat - means read from keyboard in Linux
 - Always use cat ./filename when filename
-  starts with a special character
+  starts with a special character. 
